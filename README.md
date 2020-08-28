@@ -23,9 +23,9 @@
   </a>
 </div>
 
-## :rocket: Sobre um Projeto
+## :rocket: Sobre o Projeto
 
-A proposta foi desenvoler uma interface igual a do Discord
+A proposta foi desenvolver uma interface igual a do Discord
 
 ## 👨‍💻️ Tecnogias utilizadas
 
