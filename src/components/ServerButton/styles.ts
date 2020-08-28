@@ -23,4 +23,19 @@ export const Button = styled.button<Props>`
     width: 30px;
     height: 30px;
   }
+
+  &::before {
+
+  }
+
+  &::after {
+
+  }
+
+  transition: border-radius .2s, background-color .2s;
+
+  &.active, &:hover {
+    border-radius: 16px;
+    background-color: ${props => props.isHome ? 'var(--rocketseat)' : 'var(--discord)'};
+  }
 `;
