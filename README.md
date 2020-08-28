@@ -1,5 +1,8 @@
 <h1 align="center">
-    Discord clone
+  Discord clone
+</h1>
+
+<h1 align="center">
     <img alt="GoBarber API" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpmcvariety.files.wordpress.com%2F2018%2F05%2Fdiscord-logo.jpg%3Fw%3D700%26h%3D393%26crop%3D1&f=1&nofb=1" height="144px" width="280px"/>
     <br>
 </h1>
@@ -10,6 +13,14 @@
 
 <div>
   <img src="./.github/foto.png" />
+</div>
+
+### link para testar o projeto
+
+<div>
+  <a href="https://clonediscordherick.netlify.app/" > 
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcode.makery.ch%2Flibrary%2Fhtml-css%2Fpart2%2Fnetlify-logo.png&f=1&nofb=1">
+  </a>
 </div>
 
 ## :rocket: Sobre um Projeto
