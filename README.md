@@ -1,7 +1,7 @@
 <h1 align="center">
+    Discord clone
     <img alt="GoBarber API" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpmcvariety.files.wordpress.com%2F2018%2F05%2Fdiscord-logo.jpg%3Fw%3D700%26h%3D393%26crop%3D1&f=1&nofb=1" height="144px" width="280px"/>
     <br>
-    Discord clone
 </h1>
 
 ---
@@ -9,7 +9,7 @@
 ### Imagem do Projeto 
 
 <div>
-  <img src="./github/foto.png" />
+  <img src="./.github/foto.png" />
 </div>
 
 ## :rocket: Sobre um Projeto
