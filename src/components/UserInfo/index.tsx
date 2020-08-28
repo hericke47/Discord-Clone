@@ -8,7 +8,10 @@ const UserInfo: React.FC = () => {
     <Container>
       <Profile>
         <Avatar src={DevSpaceIco} />
-        <UserData />
+        <UserData>
+          <strong>DevSpace</strong>
+          <strong>#0220</strong>
+        </UserData>
       </Profile>
 
       <Icons>
